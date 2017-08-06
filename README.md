@@ -25,4 +25,4 @@ chat mode until they execute _CHAT_ _EXIT_ to return to the agency home.
 
 A client spawns its own thread on the server upon logging in, and all commands will run in parallel with those of other clients.
 
-A demo of the application is on YouTube, viewable on [https://youtu.be/1IVeCxCi4wM](YouTube)
+A demo of the application is on YouTube, viewable on [YouTube](https://youtu.be/1IVeCxCi4wM)
