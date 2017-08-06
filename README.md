@@ -1,4 +1,5 @@
-### COP 4338: Project #2
+COP 4338: Toledo Travel
+=======================
 
 This is a simple command line client/server application for a fictional travel agency called **Toledo Travel**, written in C using TCP sockets and the pthreads library for parallel processing.
 A single instance of the server is needed to service clients, which can be started using
